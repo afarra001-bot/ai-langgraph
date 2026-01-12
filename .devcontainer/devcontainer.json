@@ -4,6 +4,7 @@
   },
   "updateContentCommand": "python3 -m pip install -r requirements.txt",
   "postCreateCommand": "",
+  "postStartCommand": "source .venv/bin/activate"
   "customizations": {
     "codespaces": {
       "openFiles": []
