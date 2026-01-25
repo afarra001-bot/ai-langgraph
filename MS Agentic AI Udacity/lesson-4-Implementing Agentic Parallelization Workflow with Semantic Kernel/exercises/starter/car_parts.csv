@@ -1,0 +1,16 @@
+part_id,name,category,price,stock,supplier
+101,Brake Pads,Braking,45.99,120,AutoParts Co
+102,Oil Filter,Engine,8.50,300,FilterMax
+103,Spark Plug,Ignition,4.75,500,IgnitePro
+104,Alternator,Electrical,149.99,35,VoltWorks
+105,Headlight Bulb,Lighting,12.99,200,BrightLite
+106,Air Filter,Engine,15.25,250,FilterMax
+107,Clutch Kit,Transmission,225.00,15,ShiftRight
+108,Fuel Pump,Fuel System,89.50,40,FuelFlow
+109,Radiator,Cooling,130.00,25,CoolTech
+110,Windshield Wiper,Accessories,6.99,400,ClearView
+111,Timing Belt,Engine,65.00,60,DriveLine
+112,Shock Absorber,Suspension,75.00,80,SmoothRide
+113,Battery,Electrical,110.00,50,VoltWorks
+114,Exhaust Muffler,Exhaust,95.00,30,QuietDrive
+115,Side Mirror,Body,45.00,70,MirrorMate

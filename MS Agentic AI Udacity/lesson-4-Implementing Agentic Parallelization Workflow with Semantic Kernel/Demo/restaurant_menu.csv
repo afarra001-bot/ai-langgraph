@@ -1,0 +1,68 @@
+item_id,item_name,category,price,calories,available
+MENU5506,Spaghetti Carbonara,pasta,17.46,720,True
+MENU2679,Fettuccine Alfredo,pasta,15.17,680,True
+MENU2424,Penne Arrabbiata,pasta,15.52,620,False
+MENU1488,Lasagna Bolognese,pasta,19.33,850,True
+MENU9279,Linguine with Clams,pasta,20.2,580,True
+MENU4257,Ribeye Steak,steak,35.7,920,False
+MENU7873,Filet Mignon,steak,41.72,780,False
+MENU5557,New York Strip,steak,31.15,850,False
+MENU3615,Sirloin Steak,steak,30.78,720,True
+MENU5552,Grilled Chicken Breast,chicken,18.7,450,True
+MENU2674,Chicken Parmesan,chicken,18.61,680,True
+MENU6881,Chicken Marsala,chicken,19.28,620,True
+MENU5333,BBQ Chicken,chicken,20.31,590,False
+MENU9785,Grilled Salmon,fish,28.65,520,True
+MENU2291,Pan-Seared Sea Bass,fish,27.74,480,True
+MENU6925,Tuna Steak,fish,28.28,460,False
+MENU1750,Fish and Chips,fish,17.25,820,True
+MENU2307,Classic Cheeseburger,burger,14.44,720,True
+MENU7227,Bacon Burger,burger,17.13,850,True
+MENU3664,Mushroom Swiss Burger,burger,14.32,780,True
+MENU5374,Veggie Burger,burger,12.65,520,True
+MENU3803,Margherita Pizza,pizza,15.6,680,True
+MENU3677,Pepperoni Pizza,pizza,17.11,820,True
+MENU4598,BBQ Chicken Pizza,pizza,17.85,780,True
+MENU4752,Vegetarian Pizza,pizza,16.58,620,True
+MENU7572,Lamb Chops,lamb,39.37,880,True
+MENU6155,Pork Tenderloin,pork,23.83,650,True
+MENU7482,Lobster Tail,seafood,42.4,420,True
+MENU3340,Shrimp Scampi,seafood,25.84,480,True
+MENU9830,Mushroom Risotto,risotto,18.1,580,True
+MENU8019,Espresso,coffee,3.8,5,False
+MENU6930,Cappuccino,coffee,5.39,120,True
+MENU9348,Latte,coffee,5.18,180,True
+MENU2796,Americano,coffee,3.49,10,True
+MENU7916,Mocha,coffee,5.57,290,True
+MENU7252,Green Tea,tea,3.56,0,True
+MENU9669,Black Tea,tea,3.56,2,True
+MENU1188,Chamomile Tea,tea,3.79,0,False
+MENU9797,Iced Tea,tea,4.13,90,True
+MENU2827,Orange Juice,juice,5.24,110,True
+MENU8433,Apple Juice,juice,4.78,120,True
+MENU9201,Cranberry Juice,juice,4.49,130,True
+MENU2743,Fresh Lemonade,juice,4.73,150,False
+MENU9317,Coca-Cola,soda,3.21,140,True
+MENU7126,Sprite,soda,3.06,140,True
+MENU9689,Root Beer,soda,3.15,150,False
+MENU6310,Ginger Ale,soda,3.24,130,False
+MENU6947,Chardonnay,wine,9.97,120,True
+MENU4923,Cabernet Sauvignon,wine,12.9,125,True
+MENU2290,Pinot Grigio,wine,9.11,120,False
+MENU2133,Merlot,wine,10.08,125,True
+MENU3060,IPA,beer,7.66,180,False
+MENU3705,Lager,beer,5.54,150,True
+MENU7932,Wheat Beer,beer,6.19,160,False
+MENU4295,Stout,beer,7.64,210,False
+MENU7118,Margarita,cocktail,13.54,280,True
+MENU8397,Mojito,cocktail,11.84,240,False
+MENU2049,Old Fashioned,cocktail,12.93,180,True
+MENU4770,Cosmopolitan,cocktail,12.57,200,False
+MENU2163,Berry Smoothie,smoothie,8.13,250,True
+MENU4750,Tropical Smoothie,smoothie,8.32,280,True
+MENU6413,Green Smoothie,smoothie,7.76,180,True
+MENU5562,Chocolate Milkshake,milkshake,6.39,520,True
+MENU9834,Vanilla Milkshake,milkshake,7.23,480,True
+MENU8744,Strawberry Milkshake,milkshake,6.48,500,False
+MENU7669,Sparkling Water,water,2.36,0,True
+MENU8062,Bottled Water,water,1.87,0,True
